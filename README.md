@@ -27,7 +27,7 @@ Aquí comparto parte de lo que aprendo sobre Desarrollo Web
 - [Conoce la Anatomía de una Declaración CSS](https://patriciamago.com/conoce-la-anatomia-de-una-declaracion-css/)
 
 ## **Mis Certificados**
-Aquí comparto parte de lo que aprendo sobre Desarrollo Web
+Un poco de lo que he ido Aprendiendo
 - [Fundamentos de Programación](https://platzi.com/p/PatriciaMDev/ruta/1-fundamentos-programacion/diploma/detalle/?trk=public_profile_see-credential)
 - [Creación de Páginas Web con Wordpress y No-code](https://platzi.com/p/PatriciaMDev/curso/4194-paginas-web/diploma/detalle/)
 - [Curso Practico de Frontend Developer](https://platzi.com/p/PatriciaMDev/curso/2477-frontend-developer-practico/diploma/detalle/)
