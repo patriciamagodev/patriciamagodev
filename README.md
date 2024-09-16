@@ -4,11 +4,7 @@
 
 -😁 Tengo 35 años. Soy de Barcelona, Venezuela.
 
--👩🏻‍🎓 Me gradué como Licenciada en Comunicación Social Corporativa.
-
--💻 Pero ahora me dedico a Aprender Desarrollo Web Front-end.
-
--✨ Quiero aprender a crear aplicaciones web.
+-💻 Estoy Aprendiendo Desarrollo Web Front-end.
 
 -💬 Busco Grupo de Estudio ¿Hablamos?
 
@@ -18,7 +14,7 @@
 
 ## **Herramientas que Utilizo**
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,notion,wordpress,instagram,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,wordpress,instagram,twitter)](https://skillicons.dev)
 
 ## **Tengo una Web/Blog**
 Aquí comparto parte de lo que aprendo sobre Desarrollo Web
