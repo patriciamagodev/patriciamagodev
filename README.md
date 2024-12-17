@@ -2,7 +2,7 @@
 
 <!--**patriciamagodev/patriciamagodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
--😁 Tengo 35 años. Soy de Barcelona, Venezuela.
+-😁 Tengo 36 años. Soy de Venezuela.
 
 -💻 Estoy Aprendiendo Desarrollo Web Front-end.
 
